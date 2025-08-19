@@ -23,7 +23,7 @@ O plugin oferece as seguintes melhorias para a bigorna:
 
 Para instalar o plugin no seu servidor, siga estes passos:
 
-1.  **Baixe o plugin:** Faça o download da versão mais recente do arquivo `.jar` a partir da [página de Lançamentos](URL_PARA_DOWNLOAD_AQUI).
+1.  **Baixe o plugin:** Faça o download da versão mais recente do arquivo `.jar` a partir da [página de Lançamentos](https://github.com/mzplugins/MZ-Anvil/releases/tag/v1.0.0).
 2.  **Mova o arquivo:** Coloque o arquivo `.jar` que você baixou na pasta `plugins` do seu servidor Minecraft.
 3.  **Reinicie o servidor:** Inicie ou reinicie o seu servidor para que o plugin seja carregado.
 4.  **Pronto!** O plugin estará ativo e pronto para ser usado.
