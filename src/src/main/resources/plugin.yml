@@ -1,0 +1,19 @@
+name: MZ-Anvil
+version: 1.0.0
+main: br.com.mz.Main
+api-version: '1.20'
+description: Plugin identical to the anvil plugin of the nerdzone server.
+author: MZ Plugins
+permissions:
+  mz-anvil.*:
+    description: Allow access to repair and use anvil
+    default: op
+    children:
+      mz-anvil.use: true
+      mz-anvil.repair: true
+  mz-anvil.use:
+    description: Allow access to use anvil.
+    default: true
+  mz-anvil.repair:
+    description: Allow access to repair itens hitting anvil
+    default: true
